@@ -1,0 +1,23 @@
+#main{
+    width: 27%;
+    text-align: center;
+    border: 1px solid blue;
+    
+    margin: 60px 543px;
+}
+#main h1{
+    background-color: red;
+    margin-top: 0px;
+    font-size: 50px;
+}
+#main p{
+    font-size: 18px;
+}
+#main input{
+    width: 180px;
+    height: 35px;
+}
+#main button{
+    margin-bottom: 25px;
+    height: 42px;
+}
